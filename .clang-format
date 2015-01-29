@@ -1,0 +1,9 @@
+BreakBeforeBraces: Allman
+PenaltyReturnTypeOnItsOwnLine: 999
+SpaceAfterCStyleCast: true
+SpacesInParentheses: true
+IndentWidth: 4
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+ColumnLimit: 100
+AllowShortBlocksOnASingleLine: false
